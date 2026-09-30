@@ -58,3 +58,5 @@ Projektet körs i Jupyter Notebook.
 Matplotlib installeras med:
 
 python -m pip install matplotlib
+
+CSV-filen ska ligga i samma map som Jupyter Notebook filen. 
